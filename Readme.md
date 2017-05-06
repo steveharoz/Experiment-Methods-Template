@@ -1,5 +1,8 @@
 # Experiment Methods Template
 
+[Link to template](http://steveharoz.com/public/experimentmethods/Experiment_Methods_Template.html)  
+[Github repository](https://github.com/steveharoz/Experiment-Methods-Template)
+
 ## Motivation
 Incomplete and ambiguous reporting of experiment methods can make it challenging to understand analyses, interpret results, and critically evaluate conclusions. Furthermore, vaguely described procedures and parameters can be highly frustrating for readers, reviewers, and replicators. Therefore, thoroughly describing methods is a critical component of high quality open science. 
 
