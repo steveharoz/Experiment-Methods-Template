@@ -1,0 +1,157 @@
+/*---------------------------------------------------------------------------------------------
+ *  The style builds off the Visual Studio Code "light" style.
+ *
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: "Segoe WPC", "Segoe UI", "SFUIText-Light", "HelveticaNeue-Light", sans-serif, "Droid Sans Fallback";
+	font-size: 14px;
+	padding: 0 12px;
+	line-height: 22px;
+	word-wrap: break-word;
+	max-width: 1000px;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	color: #4080D0;
+	text-decoration: none;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+h2 { 
+	font-size: 1em;
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+
+h1 code,
+h2 code,
+h3 code,
+h4 code,
+h5 code,
+h6 code {
+	font-size: inherit;
+	line-height: auto;
+}
+
+a:hover {
+	color: #4080D0;
+	text-decoration: underline;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: .5em 7px .5em 5px;
+	padding: .1em 0.5em .1em 0.5em;
+	border-left: 5px solid;
+}
+blockquote img {
+    margin: 0.5em 1em 0 0;
+}
+blockquote p {
+	margin-left: 0.5em;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 14px;
+	line-height: 19px;
+}
+
+pre {
+	white-space: pre-wrap;
+}
+
+pre code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+ul { 
+	margin-top: 0.5em;
+	margin-bottom: 0.75em;
+}
+ul ul { 
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/** Theming */
+
+pre code {
+	color: rgb(30, 30, 30);
+}
+
+code {
+	color: #A31515;
+}
+
+code > div {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+h1,
+hr,
+table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
