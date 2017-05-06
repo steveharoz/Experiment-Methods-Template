@@ -6,7 +6,7 @@ output:
 ---
 [(see readme)](http://steveharoz.com/public/experimentmethods/Readme.html)
 
-# **Experiment Methods Report** - [Experiment Name]
+# Experiment Methods Template - [Experiment Name]
 
 
 ## **Overall Experiment Procedure** 
@@ -83,7 +83,7 @@ Try to include an example or screenshot for every condition. In a multivariate e
 > ![](images/example conditions.png)
 
 ## **Trial Procedure**  
-Be clear about every step, and include a screenshot. Feel free to branch if certain conditions have different procedures. If there was a questionnaire, make it available somewhere.
+Be clear about every step, and include a screenshot. Feel free to branch if certain conditions have different procedures.
 
 > ![](images/example trial procedure.png)
 
