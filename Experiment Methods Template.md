@@ -4,10 +4,12 @@ output:
     css: css/style.css
     theme: null
 ---
+[(see readme)](http://steveharoz.com/public/experimentmethods/Readme.html)
+
 # **Experiment Methods Report** - [Experiment Name]
 
 
-## **Experiment Procedure** 
+## **Overall Experiment Procedure** 
 
 > 1. Instructions
 > 2. trials

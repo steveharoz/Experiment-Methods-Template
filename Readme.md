@@ -11,7 +11,7 @@ This report is a template of information that should appear in a well-described 
 
 ## Questions
 
-**Who is it for?** This guide is primarily for experiments with visual stimuli – common in fields such as vision science, human factors, human-computer interaction, and data visualization. However, it can likely be adapted for other types of experiments too.
+**Who is it for?** This guide is primarily for experiments with visual stimuli – common in fields such as vision science, cognitive science, human factors, human-computer interaction, and data visualization. However, it can likely be adapted for other types of experiments too.
 
 **Is this like Pre-Registration?** A methods section describes what was done (past tense). A pre-registration describes what authors intend to do (future). Many factors can cause experiment plans to change, and aspects like the number of dropped subjects can’t be predicted. So while this report and a pre-registration have much overlap, they are not the same.
 
@@ -21,3 +21,12 @@ This report is a template of information that should appear in a well-described 
 
 * An example image should be shown for every stimulus condition. 
 * Also a diagram of the trial procedure can substantially improve clarity.
+
+## Terminology 
+Unusual terminology regarding the breakdown of trials within an experiment can cause a lot of confusion, especially in determining how many trials were presented. Stick to common standardized terminology when possible:
+
+* Experiment
+* Session - each time a subject returns for more data collection
+* Block - A group of similar trials
+* Run - An uninterrupted sequential set of trials
+* Trial
