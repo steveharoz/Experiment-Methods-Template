@@ -3,11 +3,10 @@
 [Link to template](http://steveharoz.com/public/experimentmethods/Experiment_Methods_Template.html)  
 [Github repository](https://github.com/steveharoz/Experiment-Methods-Template)
 
-## Motivation
-Incomplete and ambiguous reporting of experiment methods can make it challenging to understand analyses, interpret results, and critically evaluate conclusions. Furthermore, vaguely described procedures and parameters can be highly frustrating for readers, reviewers, and replicators. Therefore, thoroughly describing methods is a critical component of high quality open science. 
+This template lists the minimum information that should appear in a well-described methods section. If any of this information is missing, it limits one's ability to understand the results. It can act as a checklist for authors before submission, and it can serve as a reference for reviewers to request a revision with more information. 
 
-## Goal
-This report is a template of information that should appear in a well-described methods section. If any of the information is missing, it limits one's ability to understand the results. It can act as a checklist for authors before submission, and it can serve as a reference for reviewers to request a revision with more information. 
+## Why a template is needed
+Incomplete and ambiguous reporting of experiment methods can make it challenging to understand analyses, interpret results, and critically evaluate conclusions. Furthermore, vaguely described procedures and parameters can be highly frustrating for readers, reviewers, and replicators. Therefore, thoroughly describing methods is a critical component of high quality open science. 
 
 ## Questions
 
