@@ -23,7 +23,7 @@ output:
 
 ## **Subjects**  
 
-* N = How many subjects were used in the analysis excluding dropped subjects?  
+* N = How many subjects were used in the analysis (excluding dropped subjects)?  
 * How many subjects were dropped or excluded from the analysis and why?  
 * Source, relevant demographics, and compensation of subjects
 
