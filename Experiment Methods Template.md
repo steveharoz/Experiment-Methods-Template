@@ -6,7 +6,7 @@ output:
 ---
 [(see readme)](http://steveharoz.com/public/experimentmethods/Readme.html)
 
-# Experiment Methods Template - [Experiment Name]
+# Experiment Methods Template
 
 
 ## **Overall Experiment Procedure** 
@@ -16,14 +16,14 @@ output:
 
 > 1. Questionnaire
 > 1. Instructions 
-> 1. 2 sessions on consecutive days
+> 1. 2 sessions on consecutive days. Each day included:
 >     1. 5 Practice trials
->     1. 2 Blocks of trials (Runs of 50 trials with a break in between runs)
+>     1. 3 Blocks of trials (Runs of 50 trials with a break in between runs)
 > 1. Debrief questions
 
 ## **Subjects**  
 
-* N = How many subjects were used in the analysis (excluding dropped subjects)?  
+* N = How many subjects were used in the analysis excluding dropped subjects?  
 * How many subjects were dropped or excluded from the analysis and why?  
 * Source, relevant demographics, and compensation of subjects
 
@@ -45,9 +45,9 @@ output:
 
 ## **Response Type**  
 
-* Type: Forced choice / Yes-No / Method of Adjustment / Likert / Numerical input / ...
+* Type: *Forced choice / Yes-No / Method of Adjustment / Likert / Numerical input / ...*
 * Values: List the forced choice options, the numerical range, the Likert range and text, etc.
-* Interface: How were subject responses entered? Keyboard / Slider / ...
+* Interface: How were subject responses entered? *Keyboard / Slider / ...*
 
 > * 2 alternative forced-choice
 > * Values: left, right
@@ -63,7 +63,7 @@ output:
     * Values: *0 or 1*
     * Chance performance: *50%*
 * Dependent Variable Name B (ex. Response Time)
-    * Values: 0 - 2 seconds
+    * Values: *0 - 2 seconds*
     * Responses taking more than 2 seconds were counted as incorrect
 
 ## **(Optional) Questionnaire**
@@ -80,12 +80,16 @@ output:
 ## **Stimuli**  
 Try to include an example or screenshot for every condition. In a multivariate experiment, show as many combinations as is reasonable. Multiple tables may be necessary.
 
-> ![](images/example conditions.png)
+> ![](images/example_conditions.png)
+
+> ![](images/example_conditions_isotype.png)
 
 ## **Trial Procedure**  
 Be clear about every step, and include a screenshot. Feel free to branch if certain conditions have different procedures.
 
-> ![](images/example trial procedure.png)
+> ![](images/example_trial_procedure.png)
+
+> ![](images/example_trial_procedure_isotype.png)
 
 
 ## **Trial Count for Each Subject**
