@@ -11,6 +11,8 @@ output:
 
 ## **Overall Experiment Procedure** 
 
+List the sequence of experiment stages.
+
 > 1. Instructions
 > 2. trials
 
