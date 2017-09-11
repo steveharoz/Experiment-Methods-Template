@@ -17,7 +17,7 @@ The goal of a methods section is to provide all the information needed to fully 
 
 ## Questions
 
-**Who is this for?** This guide is primarily for experiments with visual stimuli - common in fields such as vision science, cognitive science, human factors, human-computer interaction, and data visualization. However, it can likely be adapted for other types of experiments too.
+**Who is this for?** This guide is primarily for experiments with visual stimuli – common in fields such as vision science, cognitive science, human factors, human-computer interaction, and data visualization. However, it can likely be adapted for other types of experiments too.
 
 **Is this like Pre-Registration?** A methods section describes what was done (past tense). A pre-registration describes what authors intend to do (future). Many factors can cause experiment plans to change, and aspects like the number of dropped subjects can't be predicted. So while this report and a pre-registration have much overlap, they are not the same.
 
@@ -26,7 +26,7 @@ The goal of a methods section is to provide all the information needed to fully 
 **Are figures necessary?** Example figures are critical for understanding visual stimuli, as text descriptions are often ambiguous or difficult to understand (e.g., "The objects in the outer ring of the target region to the left side of the space after the cue are a different color than the distractors presented in the lower right quadrant of the cue").
 
 * An example image should be shown for every stimulus condition. 
-* Also a diagram of the trial procedure can substantially improve clarity.
+* A diagram of the trial procedure can substantially improve clarity.
 
 **Is this everything needed in a methods section?** Not necessarily. This template should be though of as a minimum set. It represents the smallest acceptable amount of information needed to understand the experiment. Any other information needed to replicate an experiment should be included.
 
