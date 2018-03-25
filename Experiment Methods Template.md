@@ -46,6 +46,18 @@ List the sequence of experiment stages.
 
 (for within-subject multivariate experiments) Describe counterbalancing of combinations
 
+## **Trial Count for Each Subject**
+
+Be explicit about how many trials each subject performed. For between-subject designs, explain the total number of trials.
+
+> 3 VariableA * 10 VariableB * 2 VariableC * 10 repetitions = 600 trials per subject 
+
+> Each subject ran a staircase for every combination of variable A and B (3 * 2 = 6 staircases).  
+> Staircases convergence took 41-63 trials.
+
+> Each subject ran 3 VariableA * 10 VariableB = 30 trials.  
+> 28 subjects ran in condition C1. 29 subjects ran in condition C2.
+
 ## **Response Type**  
 
 * Type: *Forced choice / Yes-No / Method of Adjustment / Likert / Numerical input / ...*
@@ -69,6 +81,7 @@ List the sequence of experiment stages.
     * Values: *0 - 2 seconds*
     * Responses taking more than 2 seconds were counted as incorrect
 
+
 ## **(Optional) Questionnaire**
 
 * If there was a questionnaire, include the entire questionnaire.
@@ -76,7 +89,7 @@ List the sequence of experiment stages.
 ## **Instructions**  
 
 * Explain what question was asked of subjects.  
-* (suggested) Include a screenshot of instructions as they appeared to subjects.
+* (Suggested) Include a screenshot of instructions as they appeared to subjects.
 
 > If you see a red item on the screen, press SPACE
 
@@ -98,8 +111,6 @@ Stimuli should be described as thoroughly as possible to allow for a precise rep
 ## **Trial Procedure**  
 Be clear about every step, and include a screenshot. Feel free to branch if certain conditions have different procedures.
 
-* For timing details
-
 > ![](images/example_trial_procedure.png)
 
 > ![](images/example_trial_procedure_isotype.png)
@@ -108,12 +119,6 @@ Be clear about every step, and include a screenshot. Feel free to branch if cert
 > ![](images/example_trial_procedure_cfs.png)
 > Source: Tsuchiya & Koch. 2005.
 
-
-## **Trial Count for Each Subject**
-
-> 3 VariableA * 10 VariableB * 2 VariableC * 10 repetitions = 600 trials per subject 
-
-> Each subject ran a staircase for every combination of variable A and B (3 * 2 = 6 staircases).  
-> Staircases convergence took 41-63 trials.
+--------
 
 <div id="license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></div>.
