@@ -40,4 +40,7 @@ Unusual terminology regarding the breakdown of trials within an experiment can c
 * Trial
   
   
-<div id="license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></div>.
+------
+  
+[<img src="images/github.svg" style="height:1.25em"> Github repository for any issue or requests](https://github.com/steveharoz/Experiment-Methods-Template)
+<div id="license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></div>.
