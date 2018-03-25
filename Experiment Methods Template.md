@@ -8,6 +8,7 @@ output:
 
 # Experiment Methods Template
 
+Experiment methods should be described as clearly and precisely as possible to allow a reader to thoroughly and exactly replicate the experiment. This template describes a minimum set of information. Other information unique to an experiment but critical to its replication should also be included in the methods writeup.
 
 ## **Overall Experiment Procedure** 
 
@@ -77,10 +78,14 @@ List the sequence of experiment stages.
 * Explain what question was asked of subjects.  
 * (suggested) Include a screenshot of instructions as they appeared to subjects.
 
-> Question: "Is there a red item on the screen?"
+> If you see a red item on the screen, press SPACE
 
 ## **Stimuli**  
-Try to include an example or screenshot for every condition. In a multivariate experiment, show as many combinations as is reasonable. Multiple tables may be necessary.
+Stimuli should be described as thoroughly as possible to allow for a precise replication. Describe any luminance differences or animation in a diagram and/or text. Include an example or screenshot for every condition. In a multivariate experiment, show as many combinations as is reasonable. Multiple figures may be necessary.
+
+* Describe any imprecision in stimulus parameters (e.g., bar height was 30 +/- 2 pixels)
+* (Claims involving color/luminance) Include color/luminance and calibration details
+* (Claims involving size) Include pixel size, degrees of visual angle, and how it was measured
 
 > ![](images/example_conditions.png)
 
