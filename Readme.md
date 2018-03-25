@@ -9,6 +9,7 @@ This template lists the minimum information that should appear in a well-describ
 
 **[> View the template <](http://steveharoz.com/public/experimentmethods/Experiment_Methods_Template.html)**
 
+
 ## Why a thorough writeup of methods is necessary
 The goal of a methods section is to provide all the information needed to fully replicate an experiment without any help from the original author. Incomplete and ambiguous reporting of experiment methods can also make it challenging to understand analyses, interpret results, and critically evaluate conclusions. Furthermore, vaguely described procedures and parameters can be highly frustrating for readers, reviewers, and replicators. Thoroughly describing methods is a critical component of high quality science. 
 
@@ -30,6 +31,7 @@ The goal of a methods section is to provide all the information needed to fully 
 
 **Can all/some of this information be put in supplemental materials?** No. All of this information is critical to understanding an experiment sufficiently to replicate it.
 
+
 ## Terminology 
 Unusual terminology regarding the breakdown of trials within an experiment can cause a lot of confusion, especially in determining how many trials were presented. Stick to common standardized terminology when possible:
 
@@ -41,6 +43,8 @@ Unusual terminology regarding the breakdown of trials within an experiment can c
   
   
 ------
+
+Thanks for helpful feedback: Ben Wolfe, Bernice Rogowitz, Caitlyn McColeman
   
-[<img src="images/github.svg" style="height:1.25em"> Github repository for any issue or requests](https://github.com/steveharoz/Experiment-Methods-Template)
+[<img src="images/github.svg" style="height:1em; vertical-align: baseline;"> Github repository for any issue or requests](https://github.com/steveharoz/Experiment-Methods-Template)
 <div id="license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></div>.
