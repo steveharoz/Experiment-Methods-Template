@@ -90,13 +90,23 @@ Stimuli should be described as thoroughly as possible to allow for a precise rep
 > ![](images/example_conditions.png)
 
 > ![](images/example_conditions_isotype.png)
+> Source: Haroz, Kosara, & Franconeri. 2015.
+
+> ![](images/example_conditions_numerosity.png)  
+> Source: Cicchini, Anobile, & Burr. 2016.
 
 ## **Trial Procedure**  
 Be clear about every step, and include a screenshot. Feel free to branch if certain conditions have different procedures.
 
+* For timing details
+
 > ![](images/example_trial_procedure.png)
 
 > ![](images/example_trial_procedure_isotype.png)
+> Source: Haroz, Kosara, & Franconeri. 2015.
+
+> ![](images/example_trial_procedure_cfs.png)
+> Source: Tsuchiya & Koch. 2005.
 
 
 ## **Trial Count for Each Subject**
